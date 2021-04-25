@@ -1,3 +1,3 @@
-print("This file was created within RStudio.")
+print("Ab Shivani ko dekho padhte hue.")
 
-print("And now it lives on FUCKING GitHub. Ain't that magic!")
+print("ab gyaan ki baatein karwalo inse.")
