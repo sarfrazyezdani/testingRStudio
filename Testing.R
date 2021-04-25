@@ -1,3 +1,3 @@
-print("Ab Shivani ko dekho padhte hue.")
+print("Dekho toh inhe")
 
-print("ab gyaan ki baatein karwalo inse.")
+print("Neend aa rahi hai goodnight! Hao!!!")
